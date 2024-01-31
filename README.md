@@ -6,8 +6,6 @@
 
 I created a dedicated video on my YouTube channel to explain it step-by-step (Spanish):
 
-- [Tutorial AWS CDK Nivel 1: Despliegue de AWS LAMBDA con Infrastructura como Código (IaC)](https://youtu.be/q9qkCpXLlGE)
-
 ## Overview 🔮
 
 This is a simple custom `Hello-world` project deployed on AWS with the following specifications:
@@ -76,10 +74,10 @@ My advice is to primary understand the basics on how CDK works, and then, develo
 <table border="1">
     <tr>
         <td>
-            <p align="center">Senior DevOps Engineer passionate about advanced cloud-based solutions and deployments in AWS. I am convinced that today's greatest challenges must be solved by people that love what they do.</p>
+            <p align="center">Will</p>
         </td>
         <td>
-            <p align="center"><img src="assets/SantiagoGarciaArangoCDK.png" width=80%></p>
+            <p align="center"><img src="assets/Will.png" width=80%></p>
         </td>
     </tr>
 </table>
