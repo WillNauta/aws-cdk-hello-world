@@ -2,7 +2,7 @@
 
 <img src="assets/HelloWorldLambdaArchitecture.png" width=90%> <br>
 
-## YouTube Tutorial 🔴
+## 🔴
 
 I created a dedicated video on my YouTube channel to explain it step-by-step (Spanish):
 
@@ -69,7 +69,7 @@ My advice is to primary understand the basics on how CDK works, and then, develo
 
 ## Author :musical_keyboard:
 
-### Santiago Garcia Arango
+### Will
 
 <table border="1">
     <tr>
